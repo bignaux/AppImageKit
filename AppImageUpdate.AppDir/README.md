@@ -20,7 +20,7 @@ chmod a+x Subsurface-4.5.1.449-x86_64.AppImage
 
 # Get the updater
 wget http://bintray.com/artifact/download/probono/AppImages/AppImageUpdate-20151218-x86_64.AppImage
-chmod a+x AppImageUpdate-20151218-x86_64.AppImage
+chmod a+x AppImageUpdate-408.gb8f778d-x86_64.AppImage
 
 # Update Subsurface to the latest version
 ./AppImageUpdate-20151218-x86_64.AppImage ./Subsurface-4.5.1.449-x86_64.AppImage
